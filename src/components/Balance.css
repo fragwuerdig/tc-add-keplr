@@ -1,0 +1,15 @@
+.balance--box {
+    border: 2px solid red;
+    border-radius: 10px;
+    display: flex;
+    margin: 10px;
+}
+
+h4 {
+    width: 200px;
+}
+
+h3 {
+    width: 100px;
+    margin-left: 30px;
+}
